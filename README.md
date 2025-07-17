@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Shayan 👋</h1>
 
-<!--
-**ShayanHastam/ShayanHastam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Aspiring Backend Developer | Blockchain Enthusiast | Passionate about Future Tech 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 🔧 Currently learning **JavaScript** and **Node.js** for backend development  
+- 🐍 Exploring **Python**, **WebSockets**, and **Solidity** for blockchain projects  
+- 📈 Deeply interested in **financial markets**, **crypto trading**, and **future technologies**
+- 🌍 Always curious and constantly learning new tools and frameworks
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+JavaScript | Node.js | Python | Solidity | WebSocket | Git | REST APIs
