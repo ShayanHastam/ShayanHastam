@@ -1,45 +1,47 @@
 <h1 align="center">Hi there, I'm Shayan 👋</h1>
 
 <p align="center">
-  Aspiring Backend Developer | Blockchain Enthusiast | Passionate about Future Tech 🚀
+  Data Analyst | Python & SQL | Financial Data & Market Analytics 📊
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 🔧 Currently learning **JavaScript** and **Node.js** for backend development  
-- 🐍 Exploring **Python**, **WebSockets**, and **Solidity** for blockchain projects  
-- 📈 Deeply interested in **financial markets**, **crypto trading**, and **future technologies**
-- 🌍 Always curious and constantly learning new tools and frameworks
+- 🎓 Computer Engineering Student
+- 🐍 Strong background in Python for Data Analysis
+- 📊 Experienced in data cleaning, EDA, and data-driven decision making
+- 📈 Specialized in Financial Market Data Analysis (Forex & Macro Data)
+- 📉 Skilled in strategy backtesting and performance evaluation
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?logo=postman&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-### 🌱 What I'm Working On
+### 📊 Core Expertise
 
-- Building mini backend projects with Node.js
-- Learning smart contract development using Solidity
-- Practicing WebSocket communication for real-time apps
-- Exploring algorithmic trading and financial data analysis
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- Statistical Analysis & Probability
+- Writing optimized SQL queries
+- Dashboard creation & business reporting
+- Financial Data Analysis (Forex, Market Correlations, Risk Metrics)
+- Strategy Backtesting & Performance Metrics (Sharpe Ratio, Drawdown, Volatility)
 
 ---
 
 <div align="center">
-  Thanks for visiting my profile! 🙌  
-  Let's build something awesome together. 💻
+  Data-driven thinking. Structured analysis. Intelligent decisions. 📊
 </div>
