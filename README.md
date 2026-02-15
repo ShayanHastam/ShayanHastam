@@ -1,18 +1,21 @@
 <h1 align="center">Hi there, I'm Shayan 👋</h1>
 
 <p align="center">
-  Data Analyst | Python & SQL | Financial Data & Market Analytics 📊
+  Data Analyst | Python & SQL | Financial Markets & Quantitative Thinking 📊
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 🎓 Computer Engineering Student
-- 🐍 Strong background in Python for Data Analysis
-- 📊 Experienced in data cleaning, EDA, and data-driven decision making
-- 📈 Specialized in Financial Market Data Analysis (Forex & Macro Data)
-- 📉 Skilled in strategy backtesting and performance evaluation
+- 🎓 Computer Engineering Student with a strong analytical mindset
+- 🐍 Experienced in Python for Data Analysis and financial data processing
+- 📊 Skilled in transforming raw datasets into structured, decision-ready insights
+- 📈 Focused on Financial Market Analytics, quantitative reasoning, and risk evaluation
+- 🧠 Strong interest in data-driven investment strategies and systematic trading models
+
+I approach markets and data the same way:
+Structured logic, statistical validation, and measurable performance.
 
 ---
 
@@ -31,17 +34,31 @@
 
 ---
 
-### 📊 Core Expertise
+### 📊 Data & Analytics Expertise
 
 - Data Cleaning & Exploratory Data Analysis (EDA)
-- Statistical Analysis & Probability
-- Writing optimized SQL queries
-- Dashboard creation & business reporting
-- Financial Data Analysis (Forex, Market Correlations, Risk Metrics)
-- Strategy Backtesting & Performance Metrics (Sharpe Ratio, Drawdown, Volatility)
+- Statistical Analysis & Probability Modeling
+- Writing optimized and scalable SQL queries
+- Business reporting & dashboard development
+- Data visualization for strategic decision-making
+
+---
+
+### 📈 Financial Markets & Quantitative Focus
+
+- Financial time-series analysis (Forex & Macro Data)
+- Market correlation & volatility analysis
+- Strategy backtesting using Python
+- Performance metrics evaluation (Sharpe Ratio, Drawdown, Risk/Reward)
+- Risk modeling and capital management analytics
+- Studying macroeconomic indicators and their impact on price behavior
+
+I work at the intersection of:
+Data Science × Financial Markets × Quantitative Logic
 
 ---
 
 <div align="center">
-  Data-driven thinking. Structured analysis. Intelligent decisions. 📊
+  Turning market noise into structured signals.  
+  Data over emotions. Strategy over speculation. 📊
 </div>
